@@ -1,0 +1,30 @@
+h1 {
+  font-family: Courier New;
+  color: black;
+  font-size: 39px;
+  text-align: center;
+  background-image: url(https://egyptianstreets.com/wp-content/uploads/2014/06/Allans-Falafel-middle-Eastern-food.jpg);
+}
+
+h2 {
+  color: green;
+  background-image: url(https://egyptianstreets.com/wp-content/uploads/2014/06/Allans-Falafel-middle-Eastern-food.jpg)
+}
+
+body {
+  font-size: 30px;
+  color: black;
+}
+
+table {
+  align: center;
+}
+
+.menu {
+  text-align: center;
+}
+
+p {
+  font-family: Trebuchet MS;
+  text-align:center;
+}
