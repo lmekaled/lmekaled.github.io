@@ -28,3 +28,9 @@ p {
   font-family: Trebuchet MS;
   text-align:center;
 }
+mg{
+  border-radius:5px;
+  border-style:solid;
+  border-color:skyblue;
+  align:center;
+}
